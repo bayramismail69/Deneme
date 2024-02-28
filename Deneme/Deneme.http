@@ -1,0 +1,6 @@
+@Deneme_HostAddress = http://localhost:5068
+
+GET {{Deneme_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
